@@ -1,0 +1,244 @@
+msgid "Added %s to the group."
+msgstr "%s gruba eklendi."
+
+msgid "Blocked Users"
+msgstr "Engellenmiş Kullanıcılar"
+
+msgid "Boosted the server!"
+msgstr "Sunucu boostlandı!"
+
+msgid "Busy"
+msgstr "Meşgul"
+
+msgid "Calling you."
+msgstr "Seni arıyor."
+
+msgid "Cancel"
+msgstr "Vazgeç"
+
+msgid "Changed the channel icon."
+msgstr "Kanal ikonu değiştirildi."
+
+msgid "Changed the channel name to #"
+msgstr "Yeni kanal adı: #"
+# msgstr "Kanal adı '#%s' olarak güncellendi"
+
+msgid "Composer"
+msgstr ""
+
+msgid "Connecting"
+msgstr "Bağlanıyor"
+
+msgid "Connecting..."
+msgstr "Bağlanıyor..."
+
+msgid "Decrypt (?)"
+msgstr "Şifreyi çöz (?)"
+
+msgid "Dependency Authors"
+msgstr "Bağımlılık Yazarları"
+
+msgid "Direct Messages"
+msgstr "Direkt Mesajlar"
+
+msgid "Discord"
+msgstr ""
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Editing message"
+msgstr "Mesaj düzenleniyor"
+
+msgid "Email"
+msgstr ""
+
+msgid "Empty channel"
+msgstr ""
+
+msgid "Enable a semi-WYSIWYG feature that decorates the input Markdown text."
+msgstr "Girilen Markdown metnini süsleyen kısmi WYSIWYG desteği."
+
+msgid "Enter text here"
+msgstr "Y"
+
+msgid "Entry"
+msgstr ""
+
+msgid "Error marshaing JSON: "
+msgstr ""
+
+msgid "Hide"
+msgstr "Gizle"
+
+msgid "Idle"
+msgstr "Uzakta"
+
+msgid "In_visible"
+msgstr ""
+
+msgid "Invisible"
+msgstr "Görünmez"
+
+msgid "Joined the server."
+msgstr "Sunucuya katıldı."
+
+msgid "List of users whose messages you won't see."
+msgstr "Mesajlarını görmeyeceğiniz kullanıcıların listesi."
+
+msgid "Loading..."
+msgstr "Yükleniyor...."
+
+msgid "Login"
+msgstr "Giriş yap"
+
+msgid "Log In"
+msgstr "Giriş yap"
+
+msgid "Login using:"
+msgstr "Giriş seçenekleri:"
+
+msgid "Message "
+msgstr "Mesaj gönder"
+
+msgid "Message"
+msgstr "Buraya mesaj gönder"
+# msgstr "%s kanalına mesaj gönder"
+
+msgid "Messages"
+msgstr "Mesajlar"
+
+msgid "Messages Width"
+msgstr "Mesajların genişliği"
+
+msgid "Offline"
+msgstr "Çevrim dışı"
+
+msgid "Online"
+msgstr "Çevrim içi"
+
+msgid "Options:"
+msgstr "Ayarlar:"
+
+msgid "Override Member Colors"
+msgstr "Üye renklerini geçersiz kıl"
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Pinned <a href=\"#message/%d\">a message</a>."
+msgstr "<a href=\"#message/%d\">bir mesajı</a> başa tutturdu."
+
+msgid "Quick Switcher"
+msgstr "Hızlı Geçiş"
+
+msgid "Redacted."
+msgstr "Silindi."
+
+msgid "Remember Account"
+msgstr "Hesabı Hatırla"
+
+msgid "Removed %s from the group."
+msgstr "%s gruptan çıkarıldı."
+
+msgid "Remove File"
+msgstr "Dosyayı kaldır"
+
+msgid "Reply"
+msgstr "Cevapla"
+
+msgid "Replying to %s"
+msgstr "%s kişisine yanıt veriliyor"
+
+msgid "Rich Preview"
+msgstr "Zengin Önizleme"
+
+msgid "Search"
+msgstr "Bul"
+
+msgid "Search Users"
+msgstr "Kişiler arasında arama yap"
+
+msgid "Send Message on Enter"
+msgstr "Enter tuşuyla gönder"
+
+msgid "Send the message when the user hits the Enter key. Disable this for mobile."
+msgstr "Mesajı Enter tuşuna basıldığında gönderin. Mobil cihazlar için bunu devre dışı bırakın."
+
+msgid "Set _Status"
+msgstr ""
+
+msgid "Several people are typing..."
+msgstr "Birkaç kişi yazıyor..."
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "Show All Emojis"
+msgstr ""
+
+msgid "Show (and autocomplete) all emojis even if the user doesn't have Nitro."
+msgstr "Nitro'ya sahip olunmasa bile tüm emojileri gösterin (ve otomatik tamamlayın)."
+
+msgid "Show Blocked Messages"
+msgstr "Engellenmiş mesajları gösterin"
+
+msgid "Show messages from blocked users as dimmed instead of completely hidden."
+msgstr "Engellenen kullanıcıların mesajlarını tamamen gizli yerine soluk olarak gösterin.."
+
+msgid "Show _Source"
+msgstr ""
+
+msgid "Stop Editing"
+msgstr "Düzenlemekten vazgeç"
+
+msgid "The server is now Nitro Boosted to Tier 1."
+msgstr ""
+
+msgid "The server is now Nitro Boosted to Tier 2."
+msgstr ""
+
+msgid "The server is now Nitro Boosted to Tier 3."
+msgstr ""
+
+msgid "The width of the messages column."
+msgstr "Chiều rộng cột tin nhắn."
+
+msgid "Token"
+msgstr ""
+
+msgid "TOTP"
+msgstr ""
+
+msgid "Unblock"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown channel"
+msgstr ""
+
+msgid "Upload"
+msgstr "Tải lên"
+
+msgid "Upload File"
+msgstr "Tải lên tập tin"
+
+msgid "Upload Files"
+msgstr "Tải lên tập tin"
+
+msgid "Usage: %s [options] <name>...\n"
+msgstr ""
+
+msgid "Use generated colors instead of role colors for members."
+msgstr "Dùng màu ngẫu nhiên thay vì màu vai trò cho thành viên."
+
+msgid "User Settings"
+msgstr "Cài đặt người dùng"
+
+msgid "UTF-8"
+msgstr ""
+
+msgid "Where would you like to go?"
+msgstr "Bạn muốn đi đâu?"
